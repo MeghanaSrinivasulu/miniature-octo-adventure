@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSONListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Enter the name</string>
+    <string name="submit">Submit</string>
+    <string name="listbutton">Show List</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="edit">Edit</string>
+    <string name="newname">Enter a new name</string>
+    <string name="ok">OK</string>
+
+</resources>
